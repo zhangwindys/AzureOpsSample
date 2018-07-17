@@ -72,7 +72,7 @@ ssh -i <path_to_id_rsa> <adminUsername>@<master_node_fqdn>
 ```
 > 下载 config_k8s_ui_http.sh 脚本
 ```
-curl -LO https://raw.githubusercontent.com/Azure/devops-sample-solution-for-azure-china/acs-engine/config_k8s_ui_http.sh
+curl -LO https://raw.githubusercontent.com/Azure/devops-sample-solution-for-azure-china/master-dev/acs-engine/config_k8s_ui_http.sh
 ```
 > 通过以下命令运行脚本:
 ```
